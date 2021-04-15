@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/drum_fcc/static/css/main.e1217860.chunk.css",
+    "main.js": "/drum_fcc/static/js/main.fc824921.chunk.js",
+    "main.js.map": "/drum_fcc/static/js/main.fc824921.chunk.js.map",
+    "runtime-main.js": "/drum_fcc/static/js/runtime-main.e9db3f1c.js",
+    "runtime-main.js.map": "/drum_fcc/static/js/runtime-main.e9db3f1c.js.map",
+    "static/js/2.4fafc323.chunk.js": "/drum_fcc/static/js/2.4fafc323.chunk.js",
+    "static/js/2.4fafc323.chunk.js.map": "/drum_fcc/static/js/2.4fafc323.chunk.js.map",
+    "static/js/3.2440e339.chunk.js": "/drum_fcc/static/js/3.2440e339.chunk.js",
+    "static/js/3.2440e339.chunk.js.map": "/drum_fcc/static/js/3.2440e339.chunk.js.map",
+    "index.html": "/drum_fcc/index.html",
+    "static/css/main.e1217860.chunk.css.map": "/drum_fcc/static/css/main.e1217860.chunk.css.map",
+    "static/js/2.4fafc323.chunk.js.LICENSE.txt": "/drum_fcc/static/js/2.4fafc323.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/drum_fcc/static/media/drums.90f3ef32.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e9db3f1c.js",
+    "static/js/2.4fafc323.chunk.js",
+    "static/css/main.e1217860.chunk.css",
+    "static/js/main.fc824921.chunk.js"
+  ]
+}
